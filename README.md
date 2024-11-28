@@ -7,9 +7,8 @@
     pip install xhtml2pdf
 ```
 
-</br>
-
-![screenshot_2019-02-18 online book store 2](https://user-images.githubusercontent.com/28836413/52928808-cddf6e00-336b-11e9-9db9-58cb0fc0f0e5.png)
+![Screenshot 2024-11-28 125058](https://github.com/user-attachments/assets/e4bf48dd-a878-43de-a301-53597a9b8877)
 
 
-![Screenshot_2019-09-07 Online Book Store](https://user-images.githubusercontent.com/16104417/64470406-7a483c80-d164-11e9-93b1-cbca68a966cb.png)
+
+![Screenshot 2024-11-28 125142](https://github.com/user-attachments/assets/f621de82-ed75-4c9b-8976-cec2d11d8386)
